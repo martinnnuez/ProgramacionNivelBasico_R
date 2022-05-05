@@ -1,0 +1,17 @@
+Tipo	Rinde
+Redondo	86
+Redondo	74
+Redondo	88
+Redondo	76
+Común	40
+Común	48
+Común	54
+Común	46
+Alargado	30
+Alargado	36
+Alargado	42
+Alargado	34
+Rayado	48
+Rayado	54
+Rayado	42
+Rayado	56
